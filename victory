@@ -2,42 +2,13 @@
 ! dkeg 2015
 
 #define bg   #2c2c36
-#define gb    #101123
-#define gff    #d4d4d6
-#define fg    #c4c4b5
-#define gf    #b7b7bd
-#define blk   #363643
-#define bblk   #6f707b
+#define fg   #c4c4b5
+#define blk  #363643
+#define bblk #6f707b
 #define red  #9c6647
-#define der  #925633
-#define grn   #708684
-#define nrg   #5e7775
-#define ylw   #a29474
-#define ulb   #6c7381
-#define blu   #697284
-#define mag   #796a70
-#define cyn   #47676e
-#define ht    #d4d4d6
-#define wht    #c4c4b5
-#define thw   #b7b7bd
-
-!*background:  bg
-!*foreground:  fg
-!*cursorColor: blu
-!
-!*color0:      blk
-!*color8:      b_b
-!*color1:      red
-!*color9:      red
-!*color2:      grn
-!*color10:     grn
-!*color3:      ylw
-!*color11:     ylw
-!*color4:      blu
-!*color12:     blu
-!*color5:      mag
-!*color13:     mag
-!*color6:      cyn
-!*color14:     cyn
-!*color7:      wht
-!*color15:     wht
+#define grn  #708684
+#define ylw  #a29474
+#define blu  #697284
+#define mag  #796a70
+#define cyn  #47676e
+#define wht  #c4c4b5
