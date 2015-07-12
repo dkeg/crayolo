@@ -2,17 +2,13 @@
 ! dkeg 2015
 
 #define bg    #30272b
-#define gb    #20151a
-#define gf    #b0b0a2
 #define fg    #bcb8ba
 #define blk   #362c30
 #define bblk  #443c40
 #define red   #925633
-#define nrg   #55634f
 #define grn   #697234
 #define ylw   #978341
-#define wly   #b4a581
 #define blu   #5e6676
-#define gam   #796a70
+#define mag   #694e63
 #define cyn   #47676e
 #define wht   #bcb8ba
