@@ -1,0 +1,14 @@
+! dkeg 2015
+! subtle 
+
+#define bg      #413f43
+#define fg      #c9c1b7
+#define blk     #353337
+#define bblk    #666568
+#define red     #a55a46
+#define ylw     #b79b58
+#define grn     #6b925a 
+#define blu     #6e747b
+#define mag     #96787d 
+#define cyn     #7b8889
+#define wht     #c9c1b7
