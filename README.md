@@ -5,6 +5,9 @@
 ###  Implementation
 ###### > Use the example from xresource file to include in .Xresources
 ###  Previews
+#### poly
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/poly.png)
+
 #### victory
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/victory.png)
 
@@ -28,4 +31,3 @@
 
 #### mattd 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/mattd.png)
-
