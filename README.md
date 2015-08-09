@@ -5,6 +5,10 @@
 ###  Implementation
 ###### > Use the example from xresource file to include in .Xresources
 ###  Previews
+
+#### harbing 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/harbing.png)
+
 #### poly
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/poly.png)
 
