@@ -6,6 +6,9 @@
 ###### Use the example from xresource file to include in .Xresources
 ####  Previews
 
+#### fury 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/fury.png)
+
 #### squares 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/squares.png)
 
