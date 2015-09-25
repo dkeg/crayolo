@@ -6,6 +6,9 @@
 ###### Use the example from xresource file to include in .Xresources
 ####  Previews
 
+#### newleaf 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/newleaf.png)
+
 #### schredd 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/schredd.png)
 
