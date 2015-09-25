@@ -1,7 +1,8 @@
 #### Colors Repo
   - You can find me on linuxbbq
   - This repo is a small subset of my colour collection for Github
-  - I like to keep it simple with only 9 colors. Main reason I choose to setup my configs like this
+  - I like to keep it simple with only 9 colors. Main reason I choose to setup my configs like this  
+
 #### Implementation
   - Use the example from xresource file to include in .Xresources
   - Previews
