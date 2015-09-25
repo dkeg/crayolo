@@ -8,44 +8,44 @@
 
 #### Previews
 
-#### newleaf 
+###### newleaf 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/newleaf.png)
 
-#### schredd 
+###### schredd 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/schredd.png)
 
-#### fury 
+###### fury 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/fury.png)
 
-#### squares 
+###### squares 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/squares.png)
 
-#### harbing 
+###### harbing 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/harbing.png)
 
-#### poly
+###### poly
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/poly.png)
 
-#### victory
+###### victory
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/victory.png)
 
-#### bark
+###### bark
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/bark.png)
 
-#### reloaded
+###### reloaded
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/reloaded.png)
 
-#### depth
+###### depth
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/depth.png)
 
-#### scag
+###### scag
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/scag.png)
 
-#### leaf
+###### leaf
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/leaf.png)
 
-#### designr
+###### designr
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/designr.png)
 
-#### mattd 
+###### mattd 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/mattd.png)
