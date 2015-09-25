@@ -1,10 +1,10 @@
-#### dkeg
-###### You can find me on linuxbbq
-###### This repo is a small subset of my colour collection for Github
-###### I like to keep it simple with only 9 colors. Main reason I choose to setup my configs like this
+#### Colors Repo
+  - You can find me on linuxbbq
+  - This repo is a small subset of my colour collection for Github
+  - I like to keep it simple with only 9 colors. Main reason I choose to setup my configs like this
 ####  Implementation
-###### Use the example from xresource file to include in .Xresources
-####  Previews
+  - Use the example from xresource file to include in .Xresources
+  - Previews
 
 #### newleaf 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/newleaf.png)
