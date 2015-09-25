@@ -5,7 +5,8 @@
 
 #### Implementation
   - Use the example from xresource file to include in .Xresources
-  - Previews
+
+#### Previews
 
 #### newleaf 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/newleaf.png)
