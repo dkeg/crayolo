@@ -9,6 +9,9 @@
 #### Previews
 
 ###### newleaf 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/wintry.png)
+
+###### newleaf 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/newleaf.png)
 
 ###### schredd 
