@@ -8,7 +8,7 @@
 
 #### Previews
 
-###### newleaf 
+###### wintry 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/wintry.png)
 
 ###### newleaf 
