@@ -8,6 +8,9 @@
 
 #### Previews
 
+###### novmbr 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/novmbr.png)
+
 ###### branch 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/branch.png)
 
