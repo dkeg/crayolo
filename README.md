@@ -8,6 +8,9 @@
 
 #### Previews
 
+###### bulb 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/bulb.png)
+
 ###### novmbr 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/novmbr.png)
 
