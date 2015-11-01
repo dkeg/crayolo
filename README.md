@@ -8,6 +8,9 @@
 
 #### Previews
 
+###### raiin 
+![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/raiin.png)
+
 ###### bulb 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/bulb.png)
 
