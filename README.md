@@ -8,11 +8,11 @@
 
 #### Previews
 
-###### raiin 
-![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/raiin.png)
+###### [relax](https://github.com/dkeg/crayolo/blob/master/preview/relax.png)
 
-###### bulb 
-![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/bulb.png)
+###### [raiin](https://github.com/dkeg/crayolo/blob/master/preview/raiin.png)
+
+###### [bulb](https://github.com/dkeg/crayolo/blob/master/preview/bulb.png)
 
 ###### novmbr 
 ![alt tag](https://github.com/dkeg/crayolo/blob/master/preview/novmbr.png)
