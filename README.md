@@ -8,6 +8,7 @@
 
 #### Previews
 
+###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/parkd.png)
 ###### [relax](https://github.com/dkeg/crayolo/blob/master/preview/relax.png)
 ###### [raiin](https://github.com/dkeg/crayolo/blob/master/preview/raiin.png)
 ###### [bulb](https://github.com/dkeg/crayolo/blob/master/preview/bulb.png)
