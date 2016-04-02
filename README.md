@@ -8,11 +8,11 @@
 
 #### Previews
 
-###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/diner.png)
-###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/provrb.png)
-###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/petal.png)
-###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/paints.png)
-###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/book.png)
+###### [diner](https://github.com/dkeg/crayolo/blob/master/preview/diner.png)
+###### [provrb](https://github.com/dkeg/crayolo/blob/master/preview/provrb.png)
+###### [petal](https://github.com/dkeg/crayolo/blob/master/preview/petal.png)
+###### [paints](https://github.com/dkeg/crayolo/blob/master/preview/paints.png)
+###### [book](https://github.com/dkeg/crayolo/blob/master/preview/book.png)
 ###### [parkd](https://github.com/dkeg/crayolo/blob/master/preview/parkd.png)
 ###### [relax](https://github.com/dkeg/crayolo/blob/master/preview/relax.png)
 ###### [raiin](https://github.com/dkeg/crayolo/blob/master/preview/raiin.png)
