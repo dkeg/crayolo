@@ -8,6 +8,10 @@
 
 #### Previews
 
+###### [chaires](https://github.com/dkeg/crayolo/blob/master/preview/chaires.png)
+###### [spire](https://github.com/dkeg/crayolo/blob/master/preview/spire.png)
+###### [urban](https://github.com/dkeg/crayolo/blob/master/preview/urban.png)
+###### [zent](https://github.com/dkeg/crayolo/blob/master/preview/zent.png)
 ###### [diner](https://github.com/dkeg/crayolo/blob/master/preview/diner.png)
 ###### [provrb](https://github.com/dkeg/crayolo/blob/master/preview/provrb.png)
 ###### [petal](https://github.com/dkeg/crayolo/blob/master/preview/petal.png)

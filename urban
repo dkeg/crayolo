@@ -1,0 +1,22 @@
+!urban 
+!3c344f
+!# more purple
+#define b2g    #2a2437
+#define b2lk   #30293f
+!# less purple
+#define bg   #312e39
+#define blk   #33303b
+
+#define fg    #c0a79a
+#define bblk  #4f4b58
+#define r9ed   #b42e48
+#define r8ed   #b14451
+#define r7ed   #a03352
+#define red   #87404f
+#define grn   #74934e
+#define y1lw   #b88450
+#define ylw   #cd9359
+#define blu   #615772
+#define mag   #783e57
+#define cyn   #554757
+#define wht   #c0a79a
