@@ -8,6 +8,7 @@
 
 #### Previews
 
+###### [owl](https://github.com/dkeg/crayolo/blob/master/preview/owl.png)
 ###### [sundr](https://github.com/dkeg/crayolo/blob/master/preview/sundr.png)
 ###### [chaires](https://github.com/dkeg/crayolo/blob/master/preview/chaires.png)
 ###### [spire](https://github.com/dkeg/crayolo/blob/master/preview/spire.png)
