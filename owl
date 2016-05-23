@@ -6,8 +6,8 @@
 #define blk   #353031
 #define bblk  #434041
 #define red   #5a5a5a
-#define bred  #da5b2c
 #define grn   #656565
+#define bgrn  #da5b2c
 #define ylw   #7f7f7f
 #define bylw  #f7f7f7
 #define blu   #989898
