@@ -3,21 +3,13 @@
 ! -- Title:   spire 
 
 #define bg    #262f33
-#define f0g    #b5b699
-#define fg    #bcbda3
+#define fg    #b5b699
 #define blk   #273034
-#define b1lk   #2f3538
-#define bblk  #3b4347
-#define b0blk  #51585b
-#define red   #6f4443
-#define grn   #5c6a60
-#define g1rn   #444f47
-#define ylw   #aaa169
-#define y1lw   #b3ab79
-#define blu   #1a5568
-#define b2lu   #1d5f74
-#define b1lu   #184e60
+#define bblk  #464c50
+#define red   #804f4e
+#define grn   #68786c
+#define ylw   #948d65
+#define blu   #475257
 #define mag   #74636a
-#define cyn   #43686a
-#define wht    #bcbda3
-#define w0ht    #b5b699
+#define cyn   #47575f
+#define wht   #b5b699

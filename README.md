@@ -8,7 +8,9 @@
 
 #### Previews
 
+###### [slate](https://github.com/dkeg/crayolo/blob/master/preview/slate.png)
 ###### [vans](https://github.com/dkeg/crayolo/blob/master/preview/vans.png)
+###### [fendr](https://github.com/dkeg/crayolo/blob/master/preview/fendr.png)
 ###### [owl](https://github.com/dkeg/crayolo/blob/master/preview/owl.png)
 ###### [sundr](https://github.com/dkeg/crayolo/blob/master/preview/sundr.png)
 ###### [chaires](https://github.com/dkeg/crayolo/blob/master/preview/chaires.png)
