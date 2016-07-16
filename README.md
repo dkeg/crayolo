@@ -8,6 +8,9 @@
 
 #### Previews
 
+###### [5725](https://github.com/dkeg/crayolo/blob/master/preview/5725.png)
+###### [flapr](https://github.com/dkeg/crayolo/blob/master/preview/flapr.png)
+###### [brownstone](https://github.com/dkeg/crayolo/blob/master/preview/brownstone.png)
 ###### [slate](https://github.com/dkeg/crayolo/blob/master/preview/slate.png)
 ###### [vans](https://github.com/dkeg/crayolo/blob/master/preview/vans.png)
 ###### [fendr](https://github.com/dkeg/crayolo/blob/master/preview/fendr.png)
