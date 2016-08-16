@@ -8,7 +8,11 @@
 
 #### Previews
 
+<<<<<<< HEAD
 ###### [shade](https://github.com/dkeg/crayolo/blob/master/preview/shade.png)
+=======
+###### [skigh](https://github.com/dkeg/crayolo/blob/master/preview/skigh.png)
+>>>>>>> e429424f49f71c46728153915f4ebd87daebe489
 ###### [5725](https://github.com/dkeg/crayolo/blob/master/preview/5725.png)
 ###### [flapr](https://github.com/dkeg/crayolo/blob/master/preview/flapr.png)
 ###### [brownstone](https://github.com/dkeg/crayolo/blob/master/preview/brownstone.png)
