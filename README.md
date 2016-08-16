@@ -8,6 +8,7 @@
 
 #### Previews
 
+###### [corduroy](https://github.com/dkeg/crayolo/blob/master/preview/corduroy.png)
 <<<<<<< HEAD
 ###### [shade](https://github.com/dkeg/crayolo/blob/master/preview/shade.png)
 =======
