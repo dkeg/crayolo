@@ -6,14 +6,15 @@
 #### Implementation
   - Use the example from xresource file to include in .Xresources
 
+#### Miscellaneous
+  - Added tile.xbm to the repo [IIRC, I got this off of dcat's github at some point]
+  - Implementation Example ` xetroot -bitmap $walls/tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*foreground" | awk '{print $2}')" `
+
 #### Previews
 
 ###### [corduroy](https://github.com/dkeg/crayolo/blob/master/preview/corduroy.png)
-<<<<<<< HEAD
 ###### [shade](https://github.com/dkeg/crayolo/blob/master/preview/shade.png)
-=======
 ###### [skigh](https://github.com/dkeg/crayolo/blob/master/preview/skigh.png)
->>>>>>> e429424f49f71c46728153915f4ebd87daebe489
 ###### [5725](https://github.com/dkeg/crayolo/blob/master/preview/5725.png)
 ###### [flapr](https://github.com/dkeg/crayolo/blob/master/preview/flapr.png)
 ###### [brownstone](https://github.com/dkeg/crayolo/blob/master/preview/brownstone.png)
