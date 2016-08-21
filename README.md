@@ -81,7 +81,7 @@
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_bulb.png)
 ###### [novembr](https://github.com/dkeg/crayolo/blob/master/november)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/novmbr.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_novembr.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_novmbr.png)
 ###### [branch](https://github.com/dkeg/crayolo/blob/master/branch)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/branch.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_autm.png)
