@@ -1,10 +1,11 @@
 ! dkeg 2015
 ! corduroy 
 
-#define bg      #120d0a
+#define bg      #1b140f
 #define fg      #c0b9af
-#define blk     #18110d
-#define bblk    #433d38
+#define blk     #1e1611
+#define bblk    #312b26
+#define b1blk    #433d38
 #define red     #663c23
 #define grn     #d9cfc0
 #define ylw     #987f4b
