@@ -12,81 +12,81 @@
 
 #### Previews
 
-###### [corduroy]
+###### [corduroy](https://github.com/dkeg/crayolo/blob/master/corduroy)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/corduroy.png)
-###### [shade]
+###### [shade](https://github.com/dkeg/crayolo/blob/master/shade)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/shade.png)
-###### [skigh]
+###### [skigh](https://github.com/dkeg/crayolo/blob/master/skigh)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/skigh.png)
-###### [5725]
+###### [5725](https://github.com/dkeg/crayolo/blob/master/5725)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/5725.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_5725.png)
-###### [flapr]
+###### [flapr](https://github.com/dkeg/crayolo/blob/master/flapr)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/flapr.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_flapr.png)
-###### [brownstone]
+###### [brownstone](https://github.com/dkeg/crayolo/blob/master/brownstone)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/brownstone.png)
-###### [slate]
+###### [slate](https://github.com/dkeg/crayolo/blob/master/slate)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/slate.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
-###### [vans]
+###### [vans](https://github.com/dkeg/crayolo/blob/master/vans)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/vans.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_vans.png)
-###### [fendr]
+###### [fendr](https://github.com/dkeg/crayolo/blob/master/fendr)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/fendr.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_fendr.png)
-###### [owl]
+###### [owl](https://github.com/dkeg/crayolo/blob/master/owl)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/owl.png)
-###### [sundr]
+###### [sundr](https://github.com/dkeg/crayolo/blob/master/sundr)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/sundr.png)
-###### [chaires]
+###### [chaires](https://github.com/dkeg/crayolo/blob/master/chaires)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/chaires.png)
-###### [spire]
+###### [spire](https://github.com/dkeg/crayolo/blob/master/spire)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/spire.png)
-###### [urban]
+###### [urban](https://github.com/dkeg/crayolo/blob/master/urban)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/urban.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_urban.png)
-###### [zent]
+###### [zent](https://github.com/dkeg/crayolo/blob/master/zent)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/zent.png)
-###### [diner]
+###### [diner](https://github.com/dkeg/crayolo/blob/master/diner)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/diner.png)
-###### [provrb]
+###### [provrb](https://github.com/dkeg/crayolo/blob/master/provrb)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/provrb.png)
-###### [petal]
+###### [petal](https://github.com/dkeg/crayolo/blob/master/petal)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/petal.png)
-###### [paints]
+###### [paints](https://github.com/dkeg/crayolo/blob/master/paints)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/paints.png)
-###### [book]
+###### [book](https://github.com/dkeg/crayolo/blob/master/book)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/book.png)
-###### [parkd]
+###### [parkd](https://github.com/dkeg/crayolo/blob/master/parkd)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/parkd.png)
-###### [relax]
+###### [relax](https://github.com/dkeg/crayolo/blob/master/relax)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/relax.png)
-###### [raiin]
+###### [raiin](https://github.com/dkeg/crayolo/blob/master/raiin)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/raiin.png)
-###### [bulb]
+###### [bulb](https://github.com/dkeg/crayolo/blob/master/bulb)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/bulb.png)
-###### [novembr]
+###### [novembr](https://github.com/dkeg/crayolo/blob/master/november)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/novmbr.png)
-###### [branch]
+###### [branch](https://github.com/dkeg/crayolo/blob/master/branch)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/branch.png)
-###### [wintry]
+###### [wintry](https://github.com/dkeg/crayolo/blob/master/wintry)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/wintry.png)
-###### [newleaf]
+###### [newleaf](https://github.com/dkeg/crayolo/blob/master/newleaf)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/newleaf.png)
-###### [schredd]
+###### [schredd](https://github.com/dkeg/crayolo/blob/master/schredd)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/schredd.png)
-###### [fury]
+###### [fury](https://github.com/dkeg/crayolo/blob/master/fury)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/fury.png)
-###### [squarees]
+###### [squarees](https://github.com/dkeg/crayolo/blob/master/squares)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/squares.png)
-###### [harbing]
+###### [harbing](https://github.com/dkeg/crayolo/blob/master/harbing)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/harbing.png)
-###### [poly]
+###### [poly](https://github.com/dkeg/crayolo/blob/master/poly)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/poly.png)
-###### [victory]
+###### [victory](https://github.com/dkeg/crayolo/blob/master/victory)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/victory.png)
-###### [bark]
+###### [bark](https://github.com/dkeg/crayolo/blob/master/bark)
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/bark.png)
 ###### [reloaded]
 ![git_tag](https://github.com/dkeg/crayolo/blob/master/preview/reloaded.png)
