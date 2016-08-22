@@ -96,7 +96,7 @@
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_schredd_d.png)
 ###### [fury](fury)
 ![fury](preview/fury.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_minimal.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_illusion.png)
 ###### [squarees](squarees)
 ![squarees](preview/squares.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_squares.png)
