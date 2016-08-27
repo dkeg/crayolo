@@ -1,0 +1,14 @@
+! -- Title:   transposet 
+! -- Author:  dkeg
+! -- Created: 2016
+#define bg    #2f2c2a
+#define blk   #302e2c
+#define fg    #b8b2a7
+#define bblk  #4f4d4b
+#define red   #8e6f64
+#define grn   #849385
+#define ylw   #bdac8c
+#define blu   #4c5467
+#define mag   #757580
+#define cyn   #64697f
+#define wht   #b8b2a7

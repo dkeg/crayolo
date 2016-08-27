@@ -4,8 +4,34 @@
   - I like to keep it simple with only 9 colors. Main reason I choose to setup my configs like this  
 
 #### Implementation
-  - Use the example from xresource file to include in .Xresources
-
+  - Use below in your .Xresources file 
+  ```
+  #include </path/to/color>¬                            
+  ¬
+  .... other xresource code goes here¬
+  ¬
+  ! Colors¬
+  *background:   bg¬
+  *foreground:   fg¬
+  *cursorColor:  cyn¬
+  ¬
+  *color0:      blk
+  *color8:      bblk
+  *color1:      red
+  *color9:      red
+  *color2:      grn
+  *color10:     grn
+  *color3:      ylw
+  *color11:     ylw
+  *color4:      blu
+  *color12:     blu
+  *color5:      mag
+  *color13:     mag
+  *color6:      cyn
+  *color14:     cyn
+  *color7:      wht
+  *color15:     wht
+```
 #### Miscellaneous
   - Added tile.xbm to the repo [IIRC, I got this off of dcat's github at some point]
   - Implementation Example ` xetroot -bitmap $walls/tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*foreground" | awk '{print $2}')" `
