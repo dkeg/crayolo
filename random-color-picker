@@ -6,7 +6,7 @@
 
 dir=$HOME/crayolo/colors
 filename=$HOME/.Xresources.d/.colors
-curcol=$(awk 'NR==5{gsub(/>/," ");print $2}' $filename | cut -d '/' -f5)
+curcol=$(awk 'NR==5{gsub(/>/," ");print $2}' $filename | cut -d '/' -f6)
 
 pik() {
   cd $dir
@@ -20,7 +20,7 @@ setwall() {
   xsetroot -bitmap tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*color8" | awk '{print $2}')"
 }
 showme() {
-  printcol=$(awk 'NR==5{gsub(/</," ");gsub(/>/," ");print $2}' $HOME/.Xresources.d/.colors | cut -d '/' -f5)
+  printcol=$(awk 'NR==5{gsub(/</," ");gsub(/>/," ");print $2}' $HOME/.Xresources.d/.colors | cut -d '/' -f6)
   popper "palette in use - $printcol"
 }
 
