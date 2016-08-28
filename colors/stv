@@ -1,0 +1,14 @@
+! dkeg 2015
+! stv
+
+#define bg    #2c373d
+#define fg    #c4c0bb
+#define blk   #2f393f
+#define bblk  #565e63
+#define red   #a67979
+#define grn   #809f7b
+#define ylw   #baad8a
+#define blu   #6d7575
+#define mag   #8e7d79
+#define cyn   #7b9899
+#define wht   #c4c0bb

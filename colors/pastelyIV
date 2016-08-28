@@ -1,0 +1,15 @@
+! -- Title:   pastelyIV
+! -- Author:  dkeg
+! -- Created: 2016
+
+#define bg    #2c2c2e
+#define blk   #2e2e30
+#define bblk  #454548
+#define fg    #aba786
+#define red   #645446
+#define grn   #59674f
+#define ylw   #87835d
+#define blu   #4d554f
+#define mag   #70614f
+#define cyn   #666755
+#define wht   #aba786

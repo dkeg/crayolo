@@ -1,0 +1,14 @@
+! -- Title:   lumen 
+! -- Author:  dkeg
+! -- Created: 2016
+#define bg    #221c15
+#define fg    #a5977c
+#define blk   #251e15
+#define bblk  #443d2d
+#define red   #8e3e40
+#define grn   #8f9939
+#define ylw   #99702a
+#define blu   #64696c
+#define mag   #8e534d
+#define cyn   #4c786b
+#define wht   #a5977c
