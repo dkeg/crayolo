@@ -1,6 +1,7 @@
 ! -- Title:   urban 
 ! -- Author:  dkeg
 ! -- Created: 2016
+
 #define bg    #312e39
 #define blk   #33303b
 #define fg    #c0a79a
@@ -12,3 +13,10 @@
 #define mag   #783e57
 #define cyn   #554757
 #define wht   #c0a79a
+#define bred  #87404f
+#define bgrn  #74934e
+#define bylw  #ae835a
+#define bblu  #615772
+#define bmag  #783e57
+#define bcyn  #554757
+#define bwht  #c0a79a

@@ -1,6 +1,7 @@
 ! -- Title:     5725 
 ! -- Author:    dkeg
 ! -- Created:   2016
+
 #define bg    #363334
 #define fg    #c3c1b8
 #define blk   #393638
@@ -12,3 +13,10 @@
 #define mag   #7a6054
 #define cyn   #78746c
 #define wht   #c3c1b8
+#define bred  #97544d
+#define bgrn  #97a293
+#define bylw  #c29f6f
+#define bblu  #5e606c
+#define bmag  #7a6054
+#define bcyn  #78746c
+#define bwht  #c3c1b8

@@ -1,10 +1,12 @@
-! dkeg 2015
-! stv
+! -- Title:     stv
+! -- Author:    dkeg
+! -- Created:   2015 
+! a modified version of blok
 
 #define bg    #2c373d
 #define fg    #c4c0bb
 #define blk   #2f393f
-#define bblk  #565e63
+#define bblk  #4d5459
 #define red   #a67979
 #define grn   #809f7b
 #define ylw   #baad8a
@@ -12,3 +14,10 @@
 #define mag   #8e7d79
 #define cyn   #7b9899
 #define wht   #c4c0bb
+#define bred  #a67979
+#define bgrn  #809f7b
+#define bylw  #baad8a
+#define bblu  #6d7575
+#define bmag  #8e7d79
+#define bcyn  #7b9899
+#define bwht  #c4c0bb

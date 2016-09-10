@@ -1,4 +1,4 @@
-! -- Title:   pastelyIV
+! -- Title:   pastely
 ! -- Author:  dkeg
 ! -- Created: 2016
 
@@ -13,3 +13,10 @@
 #define mag   #70614f
 #define cyn   #666755
 #define wht   #aba786
+#define bred  #645446
+#define bgrn  #59674f
+#define bylw  #87835d
+#define bblu  #4d554f
+#define bmag  #70614f
+#define bcyn  #666755
+#define bwht  #aba786

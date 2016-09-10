@@ -1,9 +1,12 @@
-! novmbr 
+! -- Title:     novmbr 
+! -- Author:    dkeg 
+! -- Created:   2015 
+! -- Modified:  2016
 
-#define bg    #1f1510
+#define bg    #1f1a17
 #define fg    #c7b8ac
-#define blk   #241812
-#define bblk  #4b433f
+#define blk   #251e1b
+#define bblk  #433c38
 #define red   #9f6434
 #define grn   #9dac5f
 #define ylw   #cca75f
@@ -11,3 +14,10 @@
 #define mag   #b5896e
 #define cyn   #52877f
 #define wht   #c7b8ac
+#define bred  #9f6434
+#define bgrn  #9dac5f
+#define bylw  #cca75f
+#define bblu  #2f7d7c
+#define bmag  #b5896e
+#define bcyn  #52877f
+#define bwht  #c7b8ac

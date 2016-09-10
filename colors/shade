@@ -1,5 +1,7 @@
-! dkeg 
-! shade 
+! -- Title:     shade 
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
 
 #define bg      #2d2d2d
 #define fg      #f7f7df
@@ -11,4 +13,11 @@
 #define blu     #747f89
 #define mag     #825969
 #define cyn     #938e8f
-#define wht     #f7f7df
+#define wht     #ededb7
+#define bred    #c77369
+#define bgrn    #93988a
+#define bylw    #d0c57a
+#define bblu    #747f89
+#define bmag    #825969
+#define bcyn    #938e8f
+#define bwht    #f7f7df

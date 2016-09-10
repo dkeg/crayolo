@@ -1,6 +1,7 @@
 ! -- Title:     flapr 
 ! -- Author:    dkeg
 ! -- Created:   2016
+
 #define bg    #2f2832
 #define fg    #b0a8a8
 #define blk   #353038
@@ -12,4 +13,10 @@
 #define mag   #76675b
 #define cyn   #59555c
 #define wht   #b0a8a8
+#define bred  #885d50
+#define bgrn  #747965
+#define bylw  #9a8e80
+#define bblu  #4a4e5a
+#define bmag  #76675b
+#define bcyn  #59555c
 #define bwht  #FFFFFF

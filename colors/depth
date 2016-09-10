@@ -1,14 +1,22 @@
-! dkeg 
-! depth 
+! -- Title:     depth (was aka schredd)
+! -- Author:    dkeg 
+! -- Created:   2015
 
-#define bg     #2c2832
-#define fg     #dbd7b8
-#define blk    #332d38
-#define bblk   #6f6b75
-#define red    #bf6257
-#define grn    #93988a
-#define ylw    #b7a16c
-#define blu    #6d6a80
-#define mag    #825969
-#define cyn    #938e8f
-#define wht    #dbd7b8
+#define bg      #2c2833
+#define fg      #dbd7b8
+#define blk     #322d39
+#define bblk    #4e4955
+#define red     #bf6257
+#define grn     #82a37c
+#define ylw     #b7a16c
+#define blu     #6d6a80
+#define mag     #825969
+#define cyn     #938e8f
+#define wht     #dbd7b8
+#define bred    #bf6257
+#define bgrn    #82a37c
+#define bylw    #b7a16c
+#define bblu    #6d6a80
+#define bmag    #825969
+#define bcyn    #938e8f
+#define bwht    #dbd7b8

@@ -1,11 +1,11 @@
-! dkeg 2015
-! corduroy 
+! -- Title:     corduroy 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg      #1b140f
 #define fg      #c0b9af
 #define blk     #1e1611
 #define bblk    #312b26
-#define b1blk    #433d38
 #define red     #663c23
 #define grn     #d9cfc0
 #define ylw     #987f4b
@@ -13,4 +13,11 @@
 #define mag     #9c8065
 #define cyn     #685a50
 #define wht     #b7afa4
+#define bred    #663c23
+#define bgrn    #d9cfc0
+#define bylw    #987f4b
+#define bblu    #433125
+#define bmag    #9c8065
+#define bcyn    #685a50
+#define bwht    #b7afa4
 

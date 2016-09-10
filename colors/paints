@@ -4,8 +4,8 @@
 
 #define bg    #352f2f
 #define blk   #3b3535
+#define bblk  #4e4949
 #define fg    #c9c8c8
-#define b1l   #4e4949
 #define red   #854340
 #define grn   #668c71
 #define ylw   #b2885d
@@ -13,3 +13,10 @@
 #define mag   #915556
 #define cyn   #477578
 #define wht   #c9c8c8
+#define bred  #854340
+#define bgrn  #668c71
+#define bylw  #b2885d
+#define bblu  #41647b
+#define bmag  #915556
+#define bcyn  #477578
+#define bwht  #c9c8c8

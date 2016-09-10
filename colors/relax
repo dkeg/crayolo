@@ -1,5 +1,6 @@
-! dkeg 2015
-! relax 
+! -- Title:     relax 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg    #312a36
 #define fg    #ccbfb3
@@ -12,3 +13,10 @@
 #define mag   #7d6969
 #define cyn   #6a7a76
 #define wht   #ccbfb3
+#define bred  #674f4a
+#define bgrn  #67786d
+#define bylw  #b08960
+#define bblu  #5e6d79
+#define bmag  #7d6969
+#define bcyn  #6a7a76
+#define bwht  #ccbfb3

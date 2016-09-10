@@ -1,10 +1,11 @@
-! poly 
-! dkeg 2015
+! -- Title:     poly 
+! -- Author:    dkeg
+! -- Created:   2015 (revised 2016)
 
-#define bg    #1f1a0c
+#define bg    #221c0d
 #define fg    #a5a39d
-#define blk   #252119
-#define bblk  #625e54
+#define blk   #27200f
+#define bblk  #383225
 #define red   #a47b3d
 #define grn   #7b9764
 #define ylw   #aead5d
@@ -12,3 +13,10 @@
 #define mag   #ad9d52
 #define cyn   #709681
 #define wht   #a5a39d
+#define bred  #a47b3d
+#define bgrn  #7b9764
+#define bylw  #aead5d
+#define bblu  #628e8f
+#define bmag  #ad9d52
+#define bcyn  #709681
+#define bwht  #a5a39d

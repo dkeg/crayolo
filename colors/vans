@@ -1,6 +1,7 @@
 ! -- Title:   vans 
 ! -- Author:  dkeg
 ! -- Created: 2016
+
 #define bg    #2b2c33
 #define blk   #303139
 #define bblk  #55565b
@@ -8,9 +9,14 @@
 #define red   #b16c7f
 #define grn   #92ab75
 #define ylw   #bdab77
-#define bylw  #e8dfcd
 #define blu   #485476
 #define mag   #746081
 #define cyn   #636f7d
 #define wht   #d9c1a9
+#define bred  #b16c7f
+#define bgrn  #92ab75
+#define bylw  #e8dfcd
+#define bblu  #485476
+#define bmag  #746081
+#define bcyn  #636f7d
 #define bwht  #e9dbce

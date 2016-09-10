@@ -1,14 +1,22 @@
-! dkeg 2015
-! scag 
+! -- Title:     scag
+! -- Author:    dkeg 
+! -- Created:   2015
 
 #define bg     #252326
 #define fg     #c4bbb0
-#define blk    #1f1d21
+#define blk    #282528
 #define bblk   #413f43
-#define red    #93503e 
+#define red    #93503e
 #define ylw    #9d8554
 #define grn    #7a8648
 #define blu    #5f656a
 #define mag    #7b6064
 #define cyn    #566e6b
 #define wht    #c4bbb0
+#define bred   #93503e
+#define bylw   #9d8554
+#define bgrn   #7a8648
+#define bblu   #5f656a
+#define bmag   #7b6064
+#define bcyn   #566e6b
+#define bwht   #c4bbb0

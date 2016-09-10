@@ -1,10 +1,11 @@
-! designr
-! dkeg 2015
+! -- Title:     designr
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg    #20292d
 #define fg    #c4c4b5
-#define blk   #2b3135
-#define bblk  #4c5356
+#define blk   #222c30
+#define bblk  #35444b
 #define red   #a66959
 #define grn   #769070
 #define ylw   #ac8d6e
@@ -12,3 +13,10 @@
 #define mag   #8a757e
 #define cyn   #60867f
 #define wht   #c4c4b5
+#define bred  #a66959
+#define bgrn  #769070
+#define bylw  #ac8d6e
+#define bblu  #607a86
+#define bmag  #8a757e
+#define bcyn  #60867f
+#define bwht  #c4c4b5

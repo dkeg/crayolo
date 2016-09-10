@@ -1,41 +1,42 @@
 #### Colors Repo
-  - You can find me on linuxbbq
   - This repo is a small subset of my colour collection for Github
-  - I like to keep it simple with only 9 colors. Main reason I choose to setup my configs like this  
+  - I like to keep it simple, generally only using 9 colors. There are a few with some bolds  
+  - I keep the color file seperate from .Xresources for cleaner switching. Include the file with ` #include </path/to/crayolo/colors/[file]> `
 
 #### Implementation
   - Use below in your .Xresources file 
   ```
-  #include </path/to/color>  
+  #include </path/to/crayolo/colors/[file]>>  
     
   .... other xresource code goes here  
     
   ! Colors  
   *background:   bg  
   *foreground:   fg  
-  *cursorColor:  cyn  
     
   *color0:      blk  
   *color8:      bblk  
   *color1:      red  
-  *color9:      red  
+  *color9:      bred  
   *color2:      grn  
-  *color10:     grn  
+  *color10:     bgrn  
   *color3:      ylw  
-  *color11:     ylw  
+  *color11:     bylw  
   *color4:      blu  
-  *color12:     blu  
+  *color12:     bblu  
   *color5:      mag  
-  *color13:     mag  
+  *color13:     bmag  
   *color6:      cyn  
-  *color14:     cyn  
+  *color14:     bcyn  
   *color7:      wht  
-  *color15:     wht  
+  *color15:     bwht  
 ```
 #### Miscellaneous
   - Added tile.xbm to the repo [IIRC, I got this off of dcat's github at some point]
   - Implementation Example ` xetroot -bitmap $walls/tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*foreground" | awk '{print $2}')" `
   - use random color picker to get a different color at each wm-start. Place in .xinitrc, or wm config, I suppose
+  - Find me on linuxbbq, forum or IRC on freenode (I'm a weekend warrior)
+
 #### Previews
 
 ###### [corduroy](colors/corduroy)
@@ -117,9 +118,6 @@
 ###### [newleaf](colors/newleaf)
 ![newleaf](preview/newleaf.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_headphones.png)
-###### [schredd](colors/schredd)
-![schredd](preview/schredd.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_schredd_d.png)
 ###### [fury](colors/fury)
 ![fury](preview/fury.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_illusion.png)

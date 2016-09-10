@@ -1,6 +1,6 @@
 ! -- Author:  dkeg 
-! -- Created: 2016
 ! -- Title:   book 
+! -- Created: 2016
 
 #define bg    #2f302d
 #define blk   #363633
@@ -12,4 +12,11 @@
 #define blu   #415265
 #define mag   #885458
 #define cyn   #646666
-#define wht    #c4c3c0
+#define wht   #c4c3c0
+#define bred  #993f3c
+#define bgrn  #78855e
+#define bylw  #937b5a
+#define bblu  #415265
+#define bmag  #885458
+#define bcyn  #646666
+#define bwht  #c4c3c0

@@ -1,6 +1,7 @@
 ! -- Title:   sundr
 ! -- Author:  dkeg
 ! -- Created: 2016
+
 #define bg    #2b2320
 #define blk   #302724
 #define bblk  #403836
@@ -12,3 +13,10 @@
 #define mag   #6f5a56
 #define cyn   #7d8486
 #define wht   #bab1a1
+#define bred  #734948
+#define bgrn  #768157
+#define bylw  #aa9375
+#define bblu  #585b63
+#define bmag  #6f5a56
+#define bcyn  #7d8486
+#define bwht  #bab1a1

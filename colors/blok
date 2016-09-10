@@ -1,5 +1,6 @@
-! dkeg 2015
-! blok 
+! -- Title:     blok 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg    #2c2a2b
 #define fg    #bab9ba
@@ -12,3 +13,10 @@
 #define mag   #7d6969
 #define cyn   #7b9899
 #define wht   #bab9ba
+#define bred  #a67979
+#define bgrn  #809f7b
+#define bylw  #baad8a
+#define bblu  #6d7575
+#define bmag  #7d6969
+#define bcyn  #7b9899
+#define bwht  #bab9ba

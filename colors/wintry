@@ -1,9 +1,10 @@
-! dkeg 2015
-! wintry (mtdt)
+! -- Title:     wintry (mtdt)
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg    #37273a
 #define fg    #c3bec3
-#define blk   #453149
+#define blk   #3d2b40
 #define bblk  #5e5261
 #define red   #9c595c
 #define grn   #8ba07a
@@ -12,3 +13,10 @@
 #define mag   #83466D
 #define cyn   #899079
 #define wht   #c3bec3
+#define bred  #9c595c
+#define bgrn  #8ba07a
+#define bylw  #b3a67d
+#define bblu  #7B6677
+#define bmag  #83466D
+#define bcyn  #899079
+#define bwht  #c3bec3

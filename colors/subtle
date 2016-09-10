@@ -1,10 +1,11 @@
-! dkeg 2015
-! subtle 
+! -- Title:     subtle 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg      #2c2c35
 #define fg      #b4ada4
 #define blk     #31313b
-#define bblk    #666568
+#define bblk    #45454d
 #define red     #b56550
 #define ylw     #b79b58
 #define grn     #6b925a 
@@ -12,3 +13,10 @@
 #define mag     #96787d 
 #define cyn     #7b8889
 #define wht     #b4ada4
+#define bred    #b56550
+#define bylw    #b79b58
+#define bgrn    #6b925a 
+#define bblu    #6e747b
+#define bmag    #96787d 
+#define bcyn    #7b8889
+#define bwht    #b4ada4

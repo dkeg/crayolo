@@ -1,6 +1,7 @@
 ! -- Title:     skigh
 ! -- Author:    dkeg 
 ! -- Created:   2016
+
 #define bg    #2e384b
 #define blk   #323c51
 #define bblk  #525863
@@ -12,3 +13,10 @@
 #define mag   #84787d
 #define cyn   #556f86
 #define wht   #bab7b5
+#define bred  #916855
+#define bgrn  #6f7f71
+#define bylw  #b39580
+#define bblu  #546780
+#define bmag  #84787d
+#define bcyn  #556f86
+#define bwht  #bab7b5

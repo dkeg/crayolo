@@ -1,14 +1,22 @@
 ! -- Author:  dkeg
-! -- Created: 2016
 ! -- Title:   diner
-#define bg   #3f4a4b
-#define fg   #aba599
-#define blk  #414d4e
-#define bblk #626f71
-#define red  #9c7f5d
-#define grn  #8e958f
-#define ylw  #b8af97
-#define blu  #828882
-#define mag  #bb9a7f
-#define cyn  #9daba2
-#define wht  #aba599
+! -- Created: 2016
+
+#define bg      #2e3738
+#define fg      #aba599
+#define blk     #343e3f
+#define bblk    #485152
+#define red     #9c7f5d
+#define grn     #8e958f
+#define ylw     #b8af97
+#define blu     #828882
+#define mag     #bb9a7f
+#define cyn     #9daba2
+#define wht     #aba599
+#define bred    #9c7f5d
+#define bgrn    #8e958f
+#define bylw    #b8af97
+#define bblu    #828882
+#define bmag    #bb9a7f
+#define bcyn    #9daba2
+#define bwht    #aba599

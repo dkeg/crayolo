@@ -1,5 +1,6 @@
-! dkeg 2015
-! blackice 
+! -- Title:     blackice 
+! -- Author:    dkeg 
+! -- Created:   2015
 
 #define bg      #1b1b1a
 #define fg      #e4e3e2
@@ -12,4 +13,11 @@
 #define cyn     #1db5a2
 #define mag     #4a5e5b
 #define wht     #e4e3e2
+#define bred    #724245 
+#define bgrn    #ffffff
+#define bylw    #42726e
+#define bblu    #724245 
+#define bcyn    #1db5a2
+#define bmag    #4a5e5b
+#define bwht    #e4e3e2
 

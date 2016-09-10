@@ -1,6 +1,7 @@
 ! -- Title:   chaires 
 ! -- Author:  dkeg
 ! -- Created: 2016
+
 #define bg    #383844
 #define fg    #c3c3c6
 #define blk   #3d3d49
@@ -12,3 +13,10 @@
 #define mag   #775a62
 #define cyn   #576e68
 #define wht   #c3c3c6
+#define bred  #a7664a
+#define bgrn  #6e8c6e
+#define bylw  #cba264
+#define bblu  #535f6b
+#define bmag  #775a62
+#define bcyn  #576e68
+#define bwht  #c3c3c6

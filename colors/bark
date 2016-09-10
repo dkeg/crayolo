@@ -1,5 +1,6 @@
-! bark 
-! dkeg 2015
+! -- Title:     bark 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg    #30272b
 #define fg    #bcb8ba
@@ -12,3 +13,10 @@
 #define mag   #694e63
 #define cyn   #47676e
 #define wht   #bcb8ba
+#define bred  #925633
+#define bgrn  #697234
+#define bylw  #978341
+#define bblu  #5e6676
+#define bmag  #694e63
+#define bcyn  #47676e
+#define bwht  #bcb8ba

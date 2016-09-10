@@ -1,5 +1,6 @@
-! dkeg 2015
-! branch 
+! -- Title:     branch 
+! -- Author:    dkeg 
+! -- Created:   2015
 
 #define bg    #2d1e17
 #define fg    #cfc1a9
@@ -12,3 +13,10 @@
 #define mag   #c47e5b
 #define cyn   #639a90
 #define wht   #cfc1a9
+#define bred  #c2562d
+#define bgrn  #96a65e
+#define bylw  #d29b5a
+#define bblu  #3b8e8c
+#define bmag  #c47e5b
+#define bcyn  #639a90
+#define bwht  #cfc1a9

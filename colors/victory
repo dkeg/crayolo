@@ -1,14 +1,23 @@
-! victory 
-! dkeg 2015
+! -- Title:     victory
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
 
-#define bg   #2c2c36
-#define fg   #c4c4b5
-#define blk  #363643
-#define bblk #6f707b
-#define red  #9c6647
-#define grn  #708684
-#define ylw  #a29474
-#define blu  #697284
-#define mag  #796a70
-#define cyn  #47676e
-#define wht  #c4c4b5
+#define b1g   #2c2c36
+#define fg    #c4c4b5
+#define blk   #31313d
+#define bblk  #454550
+#define red   #9c6647
+#define grn   #708684
+#define ylw   #a29474
+#define blu   #697284
+#define mag   #796a70
+#define cyn   #47676e
+#define wht   #c4c4b5
+#define bred  #9c6647
+#define bgrn  #708684
+#define bylw  #a29474
+#define bblu  #697284
+#define bmag  #796a70
+#define bcyn  #47676e
+#define bwht  #c4c4b5

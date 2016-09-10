@@ -13,3 +13,10 @@
 #define mag   #74636a
 #define cyn   #47575f
 #define wht   #b5b699
+#define bred  #804f4e
+#define bgrn  #68786c
+#define bylw  #948d65
+#define bblu  #475257
+#define bmag  #74636a
+#define bcyn  #47575f
+#define bwht  #b5b699

@@ -1,10 +1,11 @@
-! dkeg 2015
-! bulb 
+! -- Title:     bulb 
+! -- Author:    dkeg
+! -- Created:   2015 (revised 2016)
 
-#define bg    #242223
-#define fg    #c3b495
-#define blk   #2a2829
+#define bg    #2c292b
+#define blk   #312e30
 #define bblk  #4f4e4e
+#define fg    #c3b495
 #define red   #ab6d4e
 #define grn   #88885d
 #define ylw   #c8a168
@@ -12,3 +13,10 @@
 #define mag   #7c5545
 #define cyn   #456e66
 #define wht   #c3b495
+#define bred  #ab6d4e
+#define bgrn  #88885d
+#define bylw  #c8a168
+#define bblu  #45626e
+#define bmag  #7c5545
+#define bcyn  #456e66
+#define bwht  #c3b495

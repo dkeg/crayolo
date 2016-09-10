@@ -1,14 +1,22 @@
-! harbing 
-! dkeg 2015
+! -- Title:    harbing 
+! -- Author:   dkeg
+! -- Created:  2015
 
-#define bg   #38302b
-#define fg   #c8b49d
-#define blk  #473d36
-#define bblk #6b635e
-#define red  #bd6151
-#define grn  #6e9383
-#define ylw  #d7b18a
-#define blu  #8a8f94
-#define mag  #bd9a81
-#define cyn  #91a1a5
-#define wht  #c8b49d
+#define bg     #38302b
+#define fg     #c8b49d
+#define blk    #3f3630
+#define bblk   #6b635e
+#define red    #bd6151
+#define grn    #6e9383
+#define ylw    #d7b18a
+#define blu    #8a8f94
+#define mag    #bd9a81
+#define cyn    #91a1a5
+#define wht    #c8b49d
+#define bred   #bd6151
+#define bgrn   #6e9383
+#define bylw   #d7b18a
+#define bblu   #8a8f94
+#define bmag   #bd9a81
+#define bcyn   #91a1a5
+#define bwht   #c8b49d

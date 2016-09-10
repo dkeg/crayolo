@@ -1,6 +1,7 @@
 ! -- Title:   transposet 
 ! -- Author:  dkeg
 ! -- Created: 2016
+
 #define bg    #2f2c2a
 #define blk   #302e2c
 #define fg    #b8b2a7
@@ -12,3 +13,10 @@
 #define mag   #757580
 #define cyn   #64697f
 #define wht   #b8b2a7
+#define bred  #8e6f64
+#define bgrn  #849385
+#define bylw  #bdac8c
+#define bblu  #4c5467
+#define bmag  #757580
+#define bcyn  #64697f
+#define bwht  #b8b2a7

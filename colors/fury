@@ -1,5 +1,6 @@
-! dkeg 2015
-! fury 
+! -- Title:     fury 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg      #1a1a18
 #define fg      #9e9e91
@@ -12,3 +13,10 @@
 #define mag     #7b6072
 #define cyn     #385853
 #define wht     #9e9e91
+#define bred    #98442f
+#define bylw    #9d8554
+#define bgrn    #4c6640
+#define bblu    #4c596b
+#define bmag    #7b6072
+#define bcyn    #385853
+#define bwht    #9e9e91

@@ -1,5 +1,6 @@
-! newleaf 
-! dkeg 2015
+! -- Title:     newleaf 
+! -- Author:    dkeg
+! -- Created:   2015
 
 #define bg     #1d241a
 #define fg     #bcbebb
@@ -12,3 +13,10 @@
 #define mag    #814d61
 #define cyn    #79a69d
 #define wht    #bcbebb
+#define bred   #c14d38
+#define bgrn   #a0ce52
+#define bylw   #be9e61
+#define bblu   #4c7e89
+#define bmag   #814d61
+#define bcyn   #79a69d
+#define bwht   #bcbebb

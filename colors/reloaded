@@ -1,5 +1,6 @@
-! dkeg 2014
-! browntownReload 
+! -- Title:     browntownReload 
+! -- Author:    dkeg
+! -- Created:   2014
 
 #define bg      #242120
 #define fg      #b7afa4
@@ -10,5 +11,12 @@
 #define ylw     #987f4b
 #define blu     #515962
 #define mag     #685054
-#define cyn     #506168 
+#define cyn     #506168
 #define wht     #b7afa4
+#define bred    #925633
+#define bgrn    #757c60
+#define bylw    #987f4b
+#define bblu    #515962
+#define bmag    #685054
+#define bcyn    #506168
+#define bwht    #b7afa4
