@@ -1,12 +1,13 @@
 #### Colors Repo
   - This repo is a small subset of my colour collection for Github
   - I like to keep it simple, generally only using 9 colors. There are a few with some bolds  
-  - I keep the color file seperate from .Xresources for cleaner switching. Include the file with ` #include </path/to/crayolo/colors/[file]> `
+  - I keep the color file seperate from .Xresources for cleaner switching. Include the file with 
+    ` #include </path/to/crayolo/colors/[file]> `
 
 #### Implementation
   - Use below in your .Xresources file 
   ```
-  #include </path/to/crayolo/colors/[file]>>  
+  #include </path/to/crayolo/colors/[file]>  
     
   .... other xresource code goes here  
     

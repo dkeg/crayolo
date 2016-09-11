@@ -3,7 +3,7 @@
 ! -- Created:   2015
 ! -- Modified:  2016
 
-#define b1g   #2c2c36
+#define bg    #2c2c36
 #define fg    #c4c4b5
 #define blk   #31313d
 #define bblk  #454550
