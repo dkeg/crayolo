@@ -1,6 +1,7 @@
-! -- Title:     newleaf 
+! -- Title:     escen 
 ! -- Author:    dkeg
 ! -- Created:   2015
+! -- Based from leaf
 
 #define bg     #1d241a
 #define fg     #bcbebb
