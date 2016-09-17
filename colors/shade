@@ -20,4 +20,5 @@
 #define bblu    #747f89
 #define bmag    #825969
 #define bcyn    #938e8f
-#define bwht    #f7f7df
+#define bwht     #ededb7
+#define b1wht    #f7f7df

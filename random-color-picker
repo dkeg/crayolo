@@ -1,5 +1,9 @@
 #! /bin/sh
 
+## Title:       random-color-picker
+## Author:      dkeg
+## Created:     2016
+
 # pick a random colorfile on start
 # set a wall
 # adjust stuff to fit your system, etc

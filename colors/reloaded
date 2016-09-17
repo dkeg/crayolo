@@ -1,11 +1,14 @@
 ! -- Title:     browntownReload 
 ! -- Author:    dkeg
 ! -- Created:   2014
+! -- Modified:  2016
 
-#define bg      #242120
+#define b1g      #231f1e
+#define bg     #282423
 #define fg      #b7afa4
-#define blk     #272625
-#define bblk    #4f4d4c
+#define b1lk     #282423
+#define blk     #2d2827
+#define bblk    #3f3d3c
 #define red     #925633
 #define grn     #757c60
 #define ylw     #987f4b
