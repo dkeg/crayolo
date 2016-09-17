@@ -6,7 +6,7 @@
 #define bg     #1d241a
 #define fg     #bcbebb
 #define blk    #21291d
-#define bblk   #4d534a
+#define bblk   #35422f
 #define red    #c14d38
 #define grn    #a0ce52
 #define ylw    #be9e61

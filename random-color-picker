@@ -13,19 +13,19 @@ filename=$HOME/.Xresources.d/.colors
 curcol=$(awk 'NR==5{gsub(/>/," ");print $2}' $filename | cut -d '/' -f6)
 
 pik() {
-  cd $dir
-  ls|sort -R|tail -1|while read file; do
-    sed -i "s/$curcol/$file/g" $filename
-  done
-  cd $HOME
-  xrdb -merge ~/.Xresources
+    cd $dir
+    ls|sort -R|tail -1|while read file; do
+      sed -i "s/$curcol/$file/g" $filename
+    done
+    cd $HOME
+    xrdb -merge ~/.Xresources
 }
 setwall() {
-  xsetroot -bitmap tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*color8" | awk '{print $2}')"
+    xsetroot -bitmap tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*color8" | awk '{print $2}')"
 }
 showme() {
-  printcol=$(awk 'NR==5{gsub(/</," ");gsub(/>/," ");print $2}' $HOME/.Xresources.d/.colors | cut -d '/' -f6)
-  popper "palette in use - $printcol"
+    printcol=$(awk 'NR==5{gsub(/</," ");gsub(/>/," ");print $2}' $HOME/.Xresources.d/.colors | cut -d '/' -f6)
+    popper "palette in use - $printcol"
 }
 
 pik
