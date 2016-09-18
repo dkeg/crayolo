@@ -4,7 +4,7 @@
 ! -- Modified:  2016
 
 #define bg      #2d2d2d
-#define fg      #f7f7df
+#define fg      #ededb7
 #define blk     #2e2e2e
 #define bblk    #4e4e4e
 #define red     #c77369
@@ -20,5 +20,4 @@
 #define bblu    #747f89
 #define bmag    #825969
 #define bcyn    #938e8f
-#define bwht     #ededb7
-#define b1wht    #f7f7df
+#define bwht    #ededb7

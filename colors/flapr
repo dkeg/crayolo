@@ -3,7 +3,7 @@
 ! -- Created:   2016
 
 #define bg    #2f2832
-#define fg    #b0a8a8
+#define fg    #bcb5b5
 #define blk   #353038
 #define bblk  #58525a
 #define red   #885d50
@@ -12,11 +12,11 @@
 #define blu   #4a4e5a
 #define mag   #76675b
 #define cyn   #59555c
-#define wht   #b0a8a8
+#define wht   #bcb5b5
 #define bred  #885d50
 #define bgrn  #747965
 #define bylw  #9a8e80
 #define bblu  #4a4e5a
 #define bmag  #76675b
 #define bcyn  #59555c
-#define bwht  #FFFFFF
+#define bwht  #bcb5b5
