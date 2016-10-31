@@ -3,8 +3,10 @@
 ! -- Created:   2015
 ! -- Modified:  2016
 
-#define bg    #211d19
-#define blk   #24201b
+#define bg    #201d18
+#define blk    #211e19
+#define b1g    #211d19
+#define b1lk   #231f1a
 #define fg    #bcbba4
 #define bblk  #3a3732
 #define red   #935334
