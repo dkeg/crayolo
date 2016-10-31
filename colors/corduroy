@@ -2,21 +2,21 @@
 ! -- Author:    dkeg
 ! -- Created:   2016
 
-#define bg      #1b140f
+#define bg      #27201d
 #define fg      #b7afa4
-#define blk     #1e1611
-#define bblk    #312b26
+#define blk     #27211d
+#define bblk    #3c3633
 #define red     #663c23
 #define grn     #5c5933
 #define ylw     #987f4b
-#define blu     #373438
+#define blu     #4b484b
 #define mag     #9c8065
 #define cyn     #685a50
 #define wht     #b7afa4
 #define bred    #663c23
 #define bgrn    #5c5933
 #define bylw    #987f4b
-#define bblu    #373438
+#define bblu    #4b484b
 #define bmag    #9c8065
 #define bcyn    #685a50
 #define bwht    #b7afa4

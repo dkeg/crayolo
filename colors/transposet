@@ -1,11 +1,11 @@
-! -- Title:   transposet 
-! -- Author:  dkeg
-! -- Created: 2016
+! -- Title:     transposet 
+! -- Author:    dkeg
+! -- Created:   2016
 
-#define bg    #2f2c2a
-#define blk   #302e2c
+#define bg    #2a2725
+#define blk   #2b2927
 #define fg    #b8b2a7
-#define bblk  #4f4d4b
+#define bblk  #474543
 #define red   #8e6f64
 #define grn   #849385
 #define ylw   #bdac8c

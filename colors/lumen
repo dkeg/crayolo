@@ -3,7 +3,7 @@
 ! -- Created: 2016
 
 #define bg    #251e15
-#define blk   #2a2218
+#define blk   #282017
 #define bblk  #3a342c
 #define fg    #a5977c
 #define red   #8e3e40

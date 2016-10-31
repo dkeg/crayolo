@@ -1,8 +1,10 @@
 #### Colors Repo
   - This repo is a small subset of my colour collection for Github
-  - I like to keep it simple, generally only using 9 colors. There are a few with some bolds  
-  - I keep the color file seperate from .Xresources for cleaner switching. Include the file with 
+  - Keep it simple, generally only using 9 colors. There are a few with some bolds  
+  - There's a color file seperate from .Xresources for cleaner switching. Include the file with 
     ` #include </path/to/crayolo/colors/[file]> `
+  - Added matching walls directory
+  - Random color script will display associated wall if exists, else a pattern wall using colors from xrdb
 
 #### Implementation
   - Use below in your .Xresources file 
@@ -137,8 +139,8 @@
 ###### [bark](colors/bark)
 ![bark](preview/bark.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_bark.png)
-###### [reloaded](colors/reloaded)
-![reloaded](preview/reloaded.png)
+###### [scape](colors/scape)
+![scape](preview/scape.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_minus2b.png)
 ###### [depth](colors/depth)
 ![depth](preview/depth.png)

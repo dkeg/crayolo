@@ -3,9 +3,9 @@
 ! -- Created:   2015 
 ! -- Modified:  2016
 
-#define bg    #1f1a17
-#define fg    #c7b8ac
+#define bg    #241d1a
 #define blk   #251e1b
+#define fg    #c7b8ac
 #define bblk  #433c38
 #define red   #9f6434
 #define grn   #9dac5f

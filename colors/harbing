@@ -1,10 +1,11 @@
-! -- Title:    harbing 
-! -- Author:   dkeg
-! -- Created:  2015
+! -- Title:     harbing 
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
 
-#define bg     #38302b
+#define bg     #322b26
 #define fg     #c8b49d
-#define blk    #3f3630
+#define blk    #332c27
 #define bblk   #63554c
 #define red    #bd6151
 #define grn    #6e9383

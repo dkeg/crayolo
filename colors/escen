@@ -3,9 +3,9 @@
 ! -- Created:   2015
 ! -- Based from leaf
 
-#define bg     #1d241a
+#define bg     #1c2319
 #define fg     #bcbebb
-#define blk    #21291d
+#define blk    #1d241a
 #define bblk   #35422f
 #define red    #c14d38
 #define grn    #a0ce52

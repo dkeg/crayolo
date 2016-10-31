@@ -1,0 +1,22 @@
+! -- Title:     amiox 
+! -- Author:    dkeg
+! -- Created:   2016
+
+#define bg    #262020
+#define fg    #a69c8e
+#define blk   #292323
+#define bblk  #403939
+#define red   #925633
+#define grn   #55634f
+#define ylw   #aa9a71
+#define blu   #5e6676
+#define mag   #57464d
+#define cyn   #47676e
+#define wht   #a69c8e
+#define bred  #925633
+#define bgrn  #55634f
+#define bylw  #aa9a71
+#define bblu  #5e6676
+#define bmag  #57464d
+#define bcyn  #47676e
+#define bwht  #a69c8e

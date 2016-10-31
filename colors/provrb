@@ -2,8 +2,8 @@
 ! -- Created: 2016
 ! -- Title:   provrb 
 
-#define bg    #343031
-#define blk   #393637
+#define bg    #322f30
+#define blk   #353233
 #define bblk  #575556
 #define fg    #c0bfbf
 #define red   #654c51
@@ -19,4 +19,4 @@
 #define bblu  #5b697e
 #define bmag  #7b6b75
 #define bcyn  #7d8592
-#define bwht  #c0bfbf
+#define bwht  #dfdfdf

@@ -1,0 +1,23 @@
+! -- Title:     forst
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
+
+#define bg    #161f14
+#define blk   #172015
+#define fg    #aca173
+#define bblk  #2d352b
+#define red   #61391f
+#define grn   #50703f
+#define ylw   #806420
+#define blu   #333f50
+#define mag   #71532f
+#define cyn   #45605d
+#define wht   #aca173
+#define bred  #744425
+#define bgrn  #50703f
+#define bylw  #806420
+#define bblu  #333f50
+#define bmag  #71532f
+#define bcyn  #45605d
+#define bwht  #aca173

@@ -1,10 +1,10 @@
-! - Author:   dkeg
-! - Title:    paints 
-! - Created:  2016
+! -- Title:     paints 
+! -- Author:    dkeg
+! -- Created:   2016
 
-#define bg    #352f2f
-#define blk   #3b3535
-#define bblk  #4e4949
+#define bg    #2f2a2a
+#define blk   #332e2e
+#define bblk  #433f3f
 #define fg    #c9c8c8
 #define red   #854340
 #define grn   #668c71

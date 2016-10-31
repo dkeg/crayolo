@@ -1,10 +1,11 @@
 ! -- Title:     branch 
 ! -- Author:    dkeg 
 ! -- Created:   2015
+! -- Modified:  2016
 
-#define bg    #2d1e17
+#define bg    #32221a
 #define fg    #cfc1a9
-#define blk   #32221a
+#define blk   #35241c
 #define bblk  #564a45
 #define red   #c2562d
 #define grn   #96a65e

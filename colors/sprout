@@ -1,0 +1,22 @@
+! -- Title:   sprout 
+! -- Author:  dkeg
+! -- Created: 2016
+
+#define bg    #2d3144
+#define fg    #cfccbe
+#define blk   #2f3447
+#define bblk  #525a69
+#define red   #8d6d5c
+#define grn   #6d806d
+#define ylw   #96915d
+#define blu   #68758d
+#define mag   #8a747b
+#define cyn   #8d97a8
+#define wht   #cfccbe
+#define bred  #8d6d5c
+#define bgrn  #6d806d
+#define bylw  #96915d
+#define bblu  #68758d
+#define bmag  #8a747b
+#define bcyn  #8d97a8
+#define bwht  #f0efeb

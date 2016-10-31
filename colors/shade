@@ -13,11 +13,11 @@
 #define blu     #747f89
 #define mag     #825969
 #define cyn     #938e8f
-#define wht     #ededb7
+#define wht     #ccc69c
 #define bred    #c77369
 #define bgrn    #93988a
 #define bylw    #d0c57a
 #define bblu    #747f89
 #define bmag    #825969
 #define bcyn    #938e8f
-#define bwht    #ededb7
+#define bwht    #ccc69c

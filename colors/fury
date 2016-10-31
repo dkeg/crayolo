@@ -1,10 +1,11 @@
 ! -- Title:     fury 
 ! -- Author:    dkeg
 ! -- Created:   2015
+! -- Modified:  2016
 
-#define bg      #1a1a18
+#define bg      #1e1e1e
 #define fg      #9e9e91
-#define blk     #1d1d1c
+#define blk     #1f1f1f
 #define bblk    #363636
 #define red     #98442f
 #define ylw     #9d8554

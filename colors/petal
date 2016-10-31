@@ -1,22 +1,22 @@
-! -- Author:  dkeg
-! -- Created: 2016
-! -- Title:   petal 
+! -- Title:     petal 
+! -- Author:    dkeg
+! -- Created:   2016
 
 #define bg    #24231f
 #define blk   #282622
 #define bblk  #343331
-#define fg    #94936e
+#define fg    #b4b399
 #define red   #785326
 #define grn   #516941
 #define ylw   #827834
 #define blu   #42514f
 #define mag   #6a5632
 #define cyn   #4e5d4d
-#define wht   #94936e
+#define wht   #b4b399
 #define bred  #785326
 #define bgrn  #516941
 #define bylw  #827834
 #define bblu  #42514f
 #define bmag  #6a5632
 #define bcyn  #4e5d4d
-#define bwht  #94936e
+#define bwht   #c9c9b6

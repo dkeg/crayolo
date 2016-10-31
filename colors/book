@@ -2,8 +2,8 @@
 ! -- Title:   book 
 ! -- Created: 2016
 
-#define bg    #2f302d
-#define blk   #363633
+#define bg    #2b2b28
+#define blk   #2c2c29
 #define bblk  #4a4a47
 #define fg    #c4c3c0
 #define red   #993f3c

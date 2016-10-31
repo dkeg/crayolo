@@ -1,10 +1,11 @@
 ! -- Title:     designr
 ! -- Author:    dkeg
 ! -- Created:   2015
+! -- Modified:  2016
 
-#define bg    #20292d
+#define bg    #242e32
 #define fg    #c4c4b5
-#define blk   #222c30
+#define blk   #253034
 #define bblk  #35444b
 #define red   #a66959
 #define grn   #769070

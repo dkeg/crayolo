@@ -1,33 +1,43 @@
 #! /bin/sh
 
-## Title:       random-color-picker
-## Author:      dkeg
-## Created:     2016
+## Title:           random-color-picker
+## Author:          dkeg
+## Created:         2016
 
-# pick a random colorfile on start
-# set a wall
-# adjust stuff to fit your system, etc
+# pick a random colorfile on start; sets wall
+# start in .xinitrc
+# sync colors across; requires gtkColor
+# adjust to to fit your system
 
+## A color will be set randomly, check walls directory \
+## and set the associated wall if exists \
+## else sets pattern wall using color from xrdb
+
+walls=$HOME/crayolo/walls
 dir=$HOME/crayolo/colors
 filename=$HOME/.Xresources.d/.colors
-curcol=$(awk 'NR==5{gsub(/>/," ");print $2}' $filename | cut -d '/' -f6)
+curcol=$(awk '/\#include/ {gsub(/>/," ");print $2}' $filename|cut -d '/' -f6)
 
-pik() {
-    cd $dir
-    ls|sort -R|tail -1|while read file; do
-      sed -i "s/$curcol/$file/g" $filename
+  cd $dir
+  ls|sort -R|tail -1|while read file;
+    do
+        sed -i "s/$curcol/$file/g" $filename
+        xrdb -merge ~/.Xresources
+        
+        # wall options
+        # remember, xsetroot doesn't work with compton
+        match="hsetroot -cover $walls/$file.jpg -blur 5"
+        pattern="hsetroot -solid "$(xrdb -query|awk '/\*background/ {print $2}')" -tile /data/walls/patternweb.jpg -contrast 0.9"
+        #pattern="xsetroot -mod 6 2 -bg "$(xrdb -query|awk ' /\*color0/ {print $2}')" -fg "$(xrdb -query | awk '/\*color8/ {print $2}')""
+        #pattern="xsetroot -bitmap $walls/tile.xbm -bg "$(xrdb -query|awk ' /\*background/ {print $2}')" -fg "$(xrdb -query|awk ' /\*color0/ {print $2}')""
+        
+          if [ -f "$walls/$file.jpg" ]; then
+            $match
+          else
+            $pattern
+          fi
+        popper "palette in use - $file"     # popup of chosen palette
     done
-    cd $HOME
-    xrdb -merge ~/.Xresources
-}
-setwall() {
-    xsetroot -bitmap tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*color8" | awk '{print $2}')"
-}
-showme() {
-    printcol=$(awk 'NR==5{gsub(/</," ");gsub(/>/," ");print $2}' $HOME/.Xresources.d/.colors | cut -d '/' -f6)
-    popper "palette in use - $printcol"
-}
-
-pik
-setwall
-showme
+    
+    # uncomment sync GTK colors (found in inspin repo)
+    #gtkColor 

@@ -1,0 +1,23 @@
+! -- Title:     raild 
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
+
+#define bg    #211d19
+#define blk   #24201b
+#define fg    #bcbba4
+#define bblk  #3a3732
+#define red   #935334
+#define grn   #66604d
+#define ylw   #ad8b67
+#define blu   #504b44
+#define mag   #634737
+#define cyn   #505349
+#define wht   #bcbba4
+#define bred  #935334
+#define bgrn  #66604d
+#define bylw  #ad8b67
+#define bblu  #504b44
+#define bmag  #634737
+#define bcyn  #505349
+#define bwht  #d0cfbf
