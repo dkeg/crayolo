@@ -46,7 +46,7 @@
 ###### [raild](colors/raild)
 ![raild](preview/raild.png)
 ###### [blackice](colors/blackice)
-![blackicee](preview/blackice.png)
+![blackice](preview/blackice.png)
 ###### [tealights](colors/tealights)
 ![tealights](preview/tealights.png)
 ###### [traffic](colors/traffic)
