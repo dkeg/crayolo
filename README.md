@@ -45,8 +45,6 @@
 ![sprout](preview/sprout.png)
 ###### [raild](colors/raild)
 ![raild](preview/raild.png)
-###### [blackice](colors/blackice)
-![blackice](preview/blackice.png)
 ###### [tealights](colors/tealights)
 ![tealights](preview/tealights.png)
 ###### [traffic](colors/traffic)
