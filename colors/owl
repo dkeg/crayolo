@@ -3,20 +3,20 @@
 ! -- Created: 2016
 
 #define bg    #2f2b2c
-#define fg    #e5e5e5
+#define fg    #dedede
 #define blk   #302c2c
 #define bblk  #504c4e
 #define red   #5a5a5a
-#define grn   #656565
-#define ylw   #7f7f7f
-#define blu   #989898
+#define grn   #989898
+#define ylw   #cacaca
+#define blu   #656565
 #define mag   #b1b1b1
-#define cyn   #cacaca
-#define wht   #e5e5e5
+#define cyn   #7f7f7f
+#define wht   #dedede
 #define bred  #da5b2c
-#define bgrn  #da5b2c
-#define bylw  #f7f7f7
-#define bblu  #989898
+#define bgrn  #989898
+#define bylw  #cacaca
+#define bblu  #656565
 #define bmag  #b1b1b1
-#define bcyn  #cacaca
+#define bcyn  #7f7f7f
 #define bwht  #FFFFFF

@@ -16,7 +16,6 @@
   ! Colors  
   *background:   bg  
   *foreground:   fg  
-    
   *color0:      blk  
   *color8:      bblk  
   *color1:      red  
@@ -42,6 +41,32 @@
 
 #### Previews
 
+###### [sprout](colors/sprout)
+![sprout](preview/sprout.png)
+###### [raild](colors/raild)
+![raild](preview/raild.png)
+###### [blackice](colors/blackice)
+![blackicee](preview/blackice.png)
+###### [tealights](colors/tealights)
+![tealights](preview/tealights.png)
+###### [traffic](colors/traffic)
+![traffic](preview/traffic.png)
+###### [prevail](colors/prevail)
+![prevail](preview/prevail.png)
+###### [blumune](colors/blumune)
+![blumune](preview/blumune.png)
+###### [soundwave](colors/soundwave)
+![soundwave](preview/soundwave.png)
+###### [coco](colors/coco)
+![coco](preview/coco.png)
+###### [blend](colors/blend)
+![blend](preview/blend.png)
+###### [link](colors/link)
+![link](preview/link.png)
+###### [view](colors/view)
+![view](preview/view.png)
+###### [kit](colors/kit)
+![kit](preview/kit.png)
 ###### [corduroy](colors/corduroy)
 ![corduroy](preview/corduroy.png)
 ###### [shade](shade)

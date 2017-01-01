@@ -3,12 +3,10 @@
 ! -- Created:   2015
 ! -- Modified:  2016
 
-#define bg    #201d18
-#define blk    #211e19
-#define b1g    #211d19
-#define b1lk   #231f1a
+#define bg    #282623
+#define blk   #2b2825
 #define fg    #bcbba4
-#define bblk  #3a3732
+#define bblk  #43403b
 #define red   #935334
 #define grn   #66604d
 #define ylw   #ad8b67
@@ -22,4 +20,4 @@
 #define bblu  #504b44
 #define bmag  #634737
 #define bcyn  #505349
-#define bwht  #d0cfbf
+#define bwht  #dbdace

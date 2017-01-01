@@ -1,0 +1,22 @@
+! -- Title:   traffic
+! -- Author:  dkeg
+! -- Created: 2016
+
+#define bg    #272c30
+#define fg    #cfb9a8
+#define blk   #282d31
+#define bblk  #414a51
+#define red   #934e46
+#define grn   #637268
+#define ylw   #c79e84
+#define blu   #515e67
+#define mag   #715f5e
+#define cyn   #5c6f7d
+#define wht   #cfb9a8
+#define bred  #934e46
+#define bgrn  #637270
+#define bylw  #c79e84
+#define bblu  #515e67
+#define bmag  #715f5e
+#define bcyn  #5c6f7d
+#define bwht  #ddcec2

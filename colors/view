@@ -1,0 +1,21 @@
+! -- Title:   view
+! -- Author:  dkeg
+! -- Created: 2016
+#define bg    #2a2d34
+#define blk   #2e3239
+#define fg    #cababa
+#define bblk  #414550
+#define red   #a2462e
+#define grn   #5e713d
+#define ylw   #86733b
+#define blu   #394c5d
+#define mag   #855646
+#define cyn   #6e727d
+#define wht   #cababa
+#define bred  #a2462e
+#define bgrn  #5e713d
+#define bylw  #86733b
+#define bblu  #394c5d
+#define bmag  #855646
+#define bcyn  #6e727d
+#define bwht  #cababa

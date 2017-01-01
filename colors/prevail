@@ -1,0 +1,24 @@
+! -- Title:     prevail 
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
+
+#define bg    #263139
+#define blk   #28343c
+#define fg    #c4c4b5
+#define bblk  #455867
+#define red   #f36f62
+#define grn   #c5e19c
+#define ylw   #ccb478
+#define blu   #4c7e89
+#define mag   #814d61
+#define cyn   #79a69d
+#define wht   #c4c4b5
+#define bred  #f36f62
+#define bgrn  #c5e19c
+#define bylw  #dac99d
+#define bblu  #4c7e89
+#define bmag  #814d61
+#define bcyn  #79a69d
+#define bwht  #dbdbd1
+

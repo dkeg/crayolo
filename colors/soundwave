@@ -1,0 +1,22 @@
+! -- Title:     soundwave 
+! -- Author:    dkeg
+! -- Created:   2016
+
+#define bg     #29231f
+#define fg     #bcb7aa
+#define blk    #2c2521
+#define bblk   #514b49
+#define red    #675141
+#define grn    #625438
+#define ylw    #aa8f5f
+#define blu    #6e6051
+#define mag    #514540
+#define cyn    #5e4e3c
+#define wht    #bcb7aa
+#define bred   #675141
+#define bgrn   #625438
+#define bylw   #aa8f5f
+#define bblu   #6e6051
+#define bmag   #514540
+#define bcyn   #5e4e3c
+#define bwht   #dedbd5

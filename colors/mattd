@@ -6,7 +6,7 @@
 #define bg      #20201f
 #define fg      #b0b0a2
 #define blk     #222221
-#define bblk    #484847
+#define bblk    #3a3a38
 #define red     #996140
 #define ylw     #9d8554
 #define grn     #799c6a
@@ -20,4 +20,4 @@
 #define bblu    #5f656a
 #define bmag    #7b6064
 #define bcyn    #566e6b
-#define bwht    #b0b0a2
+#define bwht    #d3d3cb

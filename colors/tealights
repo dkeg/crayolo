@@ -1,0 +1,22 @@
+! -- Title:   tealights
+! -- Author:  dkeg
+! -- Created: 2016
+
+#define bg    #25231b
+#define blk   #26241c
+#define fg    #c4c1b0
+#define bblk  #4d4a3a
+#define red   #8e2f34
+#define grn   #55654a
+#define ylw   #988871
+#define blu   #848f89
+#define mag   #9f8c7c
+#define cyn   #9cb4a6
+#define wht   #c4c1b0
+#define bred  #8e2f34
+#define bgrn  #55654a
+#define bylw  #988871
+#define bblu  #848f89
+#define bmag  #9f8c7c
+#define bcyn  #9cb4a6
+#define bwht  #d8d4c5

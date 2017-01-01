@@ -1,0 +1,21 @@
+! -- Title:   link
+! -- Author:  dkeg
+! -- Created: 2016
+#define bg    #222222
+#define blk   #242424
+#define fg    #c2c2c2
+#define bblk  #484848
+#define red   #4d4d4d
+#define grn   #8a8c84
+#define ylw   #c5c5b2
+#define blu   #5d5d5d
+#define mag   #707070
+#define cyn   #898989
+#define wht   #c2c2c2
+#define bred  #4d4d4d
+#define bgrn  #8a8c84
+#define bylw  #c5c5b2
+#define bblu  #5d5d5d
+#define bmag  #707070
+#define bcyn  #898989
+#define bwht  #f1f1f1

@@ -1,0 +1,21 @@
+! -- Title:   kit    
+! -- Author:  dkeg
+! -- Created: 2016
+#define bg    #272733
+#define fg    #cac5b7
+#define blk   #292935
+#define bblk  #48485e
+#define red   #d65f2f
+#define grn   #aabf7f
+#define ylw   #dabe72
+#define blu   #5e7e9b
+#define mag   #bf6c68
+#define cyn   #5a7273
+#define wht   #cac5b7
+#define bred  #d65f2f
+#define bgrn  #aabf7f
+#define bylw  #dabe72
+#define bblu  #5e7e9b
+#define bmag  #bf6c68
+#define bcyn  #5a7273
+#define bwht  #d5d1c6

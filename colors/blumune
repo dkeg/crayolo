@@ -1,0 +1,23 @@
+! -- Title:     blumune 
+! -- Author:    dkeg 
+! -- Created:   2015
+! -- Modified:  2016
+
+#define bg        #1c1f23
+#define blk       #202428
+#define fg        #c0b9af
+#define bblk      #33383f
+#define red       #234640
+#define grn       #555552
+#define ylw       #7e6b5f
+#define blu       #384758
+#define mag       #444d4d
+#define cyn       #415459
+#define wht       #ccc7bf
+#define bred      #234640
+#define bgrn      #555552
+#define bylw      #7e6b5f
+#define bblu      #384758
+#define bmag      #444d4d
+#define bcyn      #415459
+#define bwht      #e3e0db

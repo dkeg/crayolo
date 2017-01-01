@@ -2,10 +2,10 @@
 ! -- Author:    dkeg
 ! -- Created:   2015 (revised 2016)
 
-#define bg    #27200f
+#define bg    #231c0d
 #define fg    #a5a39d
-#define blk   #292210
-#define bblk  #383225
+#define blk   #241e0e
+#define bblk  #3f392a
 #define red   #a47b3d
 #define grn   #7b9764
 #define ylw   #aead5d

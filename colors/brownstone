@@ -4,19 +4,19 @@
 
 #define bg    #272825
 #define blk   #282926
-#define bblk  #3c3d3a
-#define fg    #9d9d9c
+#define bblk  #41423e
+#define fg    #b0b0af
 #define red   #674839
 #define grn   #6e794f
 #define ylw   #7e744d
 #define blu   #3b474e
 #define mag   #554c41
 #define cyn   #495355
-#define wht   #9d9d9c
+#define wht   #b0b0af
 #define bred  #674839
 #define bgrn  #6e794f
 #define bylw  #7e744d
 #define bblu  #3b474e
 #define bmag  #554c41
 #define bcyn  #495355
-#define bwht  #9d9d9c
+#define bwht  #c7c7c7

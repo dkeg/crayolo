@@ -1,0 +1,23 @@
+! -- Title:     blend
+! -- Author:    dkeg
+! -- Created:   2014
+! -- Modified:  2016
+
+#define bg     #272725
+#define blk    #282826
+#define fg     #edeee8
+#define bblk   #4f4f4b
+#define red    #7d5151
+#define grn    #959c4f
+#define ylw    #a78749
+#define blu    #455563
+#define mag    #9f908d
+#define cyn    #4a5e5b
+#define wht    #f2f2f2
+#define bred   #9c6565
+#define bgrn   #b6bd6e
+#define bylw   #bc9f67
+#define bblu   #4d6377
+#define bmag   #b0a7b4
+#define bcyn   #80a09b
+#define bwht   #ffffff

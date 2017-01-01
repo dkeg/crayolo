@@ -3,21 +3,21 @@
 ! -- Created:       2014
 ! -- Modified:      2016
 
-#define bg    #121111
-#define fg    #d6c7b8
-#define blk   #131212
-#define bblk  #282727
-#define red   #4c3333
+#define bg    #1f1d1d
+#define fg    #ccbaad
+#define blk   #201e1e
+#define bblk  #4a4a4a
+#define red   #6b4747
 #define grn   #8d7138
 #define ylw   #856237
 #define blu   #3c3c49
 #define mag   #3c342e
 #define cyn   #5d5a4b
-#define wht   #d6c7b8
-#define bred  #4c3333
+#define wht   #ccbaad
+#define bred  #6b4747
 #define bgrn  #8d7138
 #define bylw  #856237
 #define bblu  #3c3c49
 #define bmag  #3c342e
 #define bcyn  #5d5a4b
-#define bwht  #d6c7b8
+#define bwht  #eae2dc
