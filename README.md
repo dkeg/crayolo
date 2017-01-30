@@ -41,6 +41,10 @@
 
 #### Previews
 
+###### [bluetype](colors/bluetype)
+![bluetype](preview/bluetype.png)
+###### [simplicity](colors/simplicity)
+![simplicity](preview/simplicity.png)
 ###### [sprout](colors/sprout)
 ![sprout](preview/sprout.png)
 ###### [raild](colors/raild)

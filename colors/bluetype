@@ -1,0 +1,24 @@
+! -- Title:     bluetype
+! -- Author:    dkeg
+! -- Created:   ???
+! -- Modified:  2017
+
+
+#define bg      #272a2a
+#define fg      #eaeaed
+#define blk     #282c2c
+#define bblk    #484c4e
+#define red     #b05f5f
+#define bred    #b05f5f
+#define grn     #88aa55
+#define bgrn    #88aa55
+#define ylw     #ccb05f
+#define bylw    #ccb05f
+#define blu     #556973
+#define bblu    #556973
+#define mag     #80807e
+#define bmag    #80807e
+#define cyn     #558888
+#define bcyn    #558888
+#define wht     #eaeaed
+#define bwht    #f6f7f8

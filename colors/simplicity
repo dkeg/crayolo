@@ -1,0 +1,23 @@
+! -- Title:     simplicity
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2017
+
+#define bg      #28282C
+#define fg      #F3F3F3
+#define blk     #29292D
+#define bblk    #404047
+#define red     #BF5C56
+#define bred    #BF5C56
+#define grn     #97B19C
+#define bgrn    #97B19C
+#define ylw     #D7BD8A
+#define bylw    #D7BD8A
+#define blu     #545F72
+#define bblu    #545f72
+#define mag     #A18673
+#define bmag    #A18673
+#define cyn     #75909F
+#define bcyn    #BE926B
+#define wht     #E9E9E9
+#define bwht    #F4F4F2
