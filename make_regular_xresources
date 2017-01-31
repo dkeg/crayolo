@@ -1,0 +1,23 @@
+#!/bin/sh
+# Makes dkeg's crayolos a regular Xresources file
+# https://github.com/dkeg/crayolo
+sed -e 's/\#define\ //g' \
+	-e 's/bblk/*.color8:/' \
+	-e 's/bred/*.color12:/' \
+	-e 's/bgrn/*.color5:/' \
+	-e 's/bylw/*.color13:/' \
+	-e 's/bblu/*.color6:/' \
+	-e 's/bmag/*.color14:/' \
+	-e 's/bcyn/*.color7:/' \
+	-e 's/bwht/*.color15:/' \
+	-e 's/blk/*.color0:/' \
+	-e 's/red/*.color1:/' \
+	-e 's/grn/*.color9:/' \
+	-e 's/ylw/*.color2:/' \
+	-e 's/blu/*.color10:/' \
+	-e 's/mag/*.color3:/' \
+	-e 's/cyn/*.color11:/' \
+	-e 's/wht/*.color4:/' \
+	-e 's/bg/*.background:/' \
+	-e 's/fg/*.foreground:/' \
+	$1

@@ -38,6 +38,7 @@
   - Implementation Example ` xetroot -bitmap $walls/tile.xbm -bg "$(xrdb -query | grep  "*background" | awk '{print $2}')" -fg "$(xrdb -query | grep  "*foreground" | awk '{print $2}')" `
   - use random color picker to get a different color at each wm-start. Place in .xinitrc, or wm config, I suppose
   - Find me on linuxbbq, forum or IRC on freenode (I'm a weekend warrior)
+  - To convert the colors into Xresources-type files use the `make_regular_xresources` script
 
 #### Previews
 
